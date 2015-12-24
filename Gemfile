@@ -32,6 +32,7 @@ gem 'paperclip', '~> 4.3', '>= 4.3.2'
 gem 'masonry-rails', '~> 0.2.4'
 gem 'acts_as_votable', '~> 0.10.0'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem 'jquery-turbolinks', '~> 2.1'
 # Use Unicorn as the app server
 # gem 'unicorn'
 
